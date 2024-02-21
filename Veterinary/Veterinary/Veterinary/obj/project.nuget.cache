@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVzL3d6xbjjVQuNEE+FGTh6Dkz3EYnKb9EjFQfxbOtDLpAeKYQP/+oNehPZFqXYy9fCoIzZfWPG1N5mWTD93cg==",
+  "success": true,
+  "projectFilePath": "D:\\1 - Projects\\AndroidApp\\Veterinary\\Veterinary\\Veterinary\\Veterinary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

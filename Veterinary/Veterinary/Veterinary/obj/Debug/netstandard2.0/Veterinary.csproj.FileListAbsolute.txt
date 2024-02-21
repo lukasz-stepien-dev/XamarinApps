@@ -1,0 +1,15 @@
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\bin\Debug\netstandard2.0\Veterinary.deps.json
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\bin\Debug\netstandard2.0\Veterinary.dll
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\bin\Debug\netstandard2.0\ref\Veterinary.dll
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\bin\Debug\netstandard2.0\Veterinary.pdb
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.csproj.AssemblyReference.cache
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.AssemblyInfoInputs.cache
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.AssemblyInfo.cs
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.csproj.CoreCompileInputs.cache
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\XamlC.stamp
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.dll
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\refint\Veterinary.dll
+D:\1 - Projects\AndroidApp\Veterinary\Veterinary\Veterinary\obj\Debug\netstandard2.0\Veterinary.pdb

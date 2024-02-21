@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8wLnD8JnAs5jjr9x5ohYmFDnz0lTv59OcmT4CHOSw67WWrcmXk/fESzTYxeOKHnsMNW6+sbCOkpBUIexOkeeA==",
+  "success": true,
+  "projectFilePath": "D:\\1 - Projects\\AndroidApp\\Veterinary\\Veterinary\\Veterinary.iOS\\Veterinary.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
